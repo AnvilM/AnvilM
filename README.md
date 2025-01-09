@@ -1,13 +1,21 @@
 # Hi there, I'm AnvilM 👋!
 
-Hi, I'm, a passionate software developer focused on creating scalable and efficient solutions. 🚀
+🛠️ **Tech Stack** 🛠️
+- **Backend:**
+  - **Languages:** PHP, Java
+  - **Databases:** Redis, MySQL, PostgresSQL, SQLite
+  - **Frameworks:** Spring, Laravel, Symfony
+  - **API:** REST API, JSON:API, GraphQL
 
-- 🛠️ **Tech Stack**:
-    - **Backend**: PHP, MySQL, PostgreSQL, Laravel, Symfony, API Development, Clean Architecture
-    - **Frontend**: Vue.js, VueRouter, TailwindCSS, JavaScript, TypeScript, Axios, HTML, CSS
-    - **Tools**: Docker, Linux Fedora
 
-- ⚙️ **Skills**:
-    - SOLID, KISS, DRY
-    - REST API, JSON:API, WebSocket
-    - Microservices, Clean Architecture, CQRS
+- **Frontend:** 
+    - **Languages:** JavaScript, TypeScript
+    - **Frameworks:** Vue.js
+
+
+- **Tools:** 
+  - **Containerization:** Docker
+  - **CI/CD:** GitHub Actions
+  - **Server Management:** Nginx, Apache, RoadRunner
+  - **Version Control:** Git, Github
+  - **API Documentation:** Swagger, Postman
