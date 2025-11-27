@@ -1,21 +1,25 @@
-# Hi there, I'm AnvilM 👋!
+<div align="center">
 
-🛠️ **Tech Stack** 🛠️
-- **Backend:**
-  - **Languages:** PHP, Java
-  - **Databases:** Redis, MySQL, PostgresSQL, SQLite
-  - **Frameworks:** Spring, Laravel, Symfony
-  - **API:** REST API, JSON:API, GraphQL
+### *`anvil`*
+#### *zstd compressed mind*
 
+I hate coding so much that opening an IDE feels like torture, so I spend <br>
+work hours writing this README, thinking I’m the coolest developer on the earth. <br>
+Tried to fix one thing last week, over-engineered it to death, <br>
+and now I want nothing to do with code.
 
-- **Frontend:** 
-    - **Languages:** JavaScript, TypeScript
-    - **Frameworks:** Vue.js
+**Rust sounds better anyway**.
 
+You’ve probably met me on a Rust server, <br>
+desperately overcomplicating every raid while slowly dying of hunger.
+</div>
 
-- **Tools:** 
-  - **Containerization:** Docker
-  - **CI/CD:** GitHub Actions
-  - **Server Management:** Nginx, Apache, RoadRunner
-  - **Version Control:** Git, Github
-  - **API Documentation:** Swagger, Postman
+<details>
+<summary align="center">some of my code examples</summary>
+<div align="center">
+<br>
+
+Dude, do you really think I'm going to brag about my code?
+
+</div>
+</details>
